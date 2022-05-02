@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitishkumarfleming
-- 👀 I’m interested in web development only frontend as of now.
-- 🌱 I’m currently learning javascript css html . everyday something new appears.
-- 💞️ I’m looking to collaborate on frontend projects
+- 👀 I’m interested in web development and want to pursue my career in it.
+- 🌱 I’m currently learning javascript css html.
+- 💞️ I’m looking to collaborate on frontend projects and also searching full time job in GTA, Ontario.
 - 📫 How to reach me :- twitter [@nitish33kumar](https://twitter.com/nitish33kumar) or nitish.webdev@gmail.com 
 
 <!---
