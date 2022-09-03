@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and my goal is to keep growing my skills in this industry.
 - 🌱 I’m currently learning javascript css html.
 - 💞️ I’m looking to collaborate on frontend projects and also searching full time job in GTA, Ontario.
-- 📫 How to reach me :- twitter [@nitish33kumar](https://twitter.com/nitish33kumar) 
+- 📫 How to reach me :- twitter [@nitish_webdev](https://twitter.com/nitish_webdev) 
                          email    nitish.webdev@gmail.com
                          linkedin https://www.linkedin.com/in/nitishwebdev/
 
